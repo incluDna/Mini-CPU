@@ -10,7 +10,7 @@ Mini CPU
 ##
 <h3>Contributes</h3>
 
-- Atipat B. `Main dev` [atipata](https://github.com/atipata) 
+- Atipat B. [atipata](https://github.com/atipata) `Main dev`
 
 - Sirikarn F. [nanamunt](https://github.com/nanamunt)
 
