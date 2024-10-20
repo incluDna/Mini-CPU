@@ -7,7 +7,9 @@ Mini CPU
 ### [Digital](https://github.com/incluDna/Diglo_final_project/blob/f4acad18ac67df1d89f826341409c8a476fa8533/RAM%20(1).dig)
 <img src="https://github.com/user-attachments/assets/a0f17ff8-a20b-4838-a442-a0c72a84281a" width="500px;" height="300px">
 
-##
+### Report & Presentation
+
+---
 <h3>Contributes</h3>
 
 - Atipat B. [atipata](https://github.com/atipata) `Main dev`
