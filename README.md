@@ -9,3 +9,11 @@ Mini CPU
 
 ##
 <h3>Contributes</h3>
+
+- Atipat B. [Main dev] [atipata](https://github.com/atipata) 
+
+- Sirikarn F. [nanamunt](https://github.com/nanamunt)
+
+- Aitsayaphan L. [gincole](https://github.com/gincole)
+
+- Penpitcha P. [incluDna](https://github.com/incluDna)
