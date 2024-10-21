@@ -10,7 +10,7 @@ Mini CPU
 ### Report & Presentation
 
 ---
-<h3>Contributes</h3>
+<h3>Contributors</h3>
 
 - Atipat B. [atipata](https://github.com/atipata) `Main dev`
 
