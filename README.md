@@ -1,6 +1,6 @@
 # Diglo_final_project
 Mini CPU
-
+ 
 <h3>ASM Chart</h3>
 <img src="https://github.com/user-attachments/assets/4dddad1a-7778-4503-b35e-cfb0d513b701" width="400px;" height="300px">
 
