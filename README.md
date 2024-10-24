@@ -1,5 +1,5 @@
-# Diglo_final_project
-Mini CPU
+# Mini CPU
+Diglo final project: instruction -> https://docs.google.com/document/d/1uvqsb468sOjQjydFLADg61IQ6dEcqkizHf0_d00spWQ/edit?tab=t.0
 
 <h3>ASM Chart</h3>
 <img src="https://github.com/user-attachments/assets/292aa6cb-cc2c-4705-8d7b-28765fb7fb28" width="400px;" height="300px">
@@ -11,7 +11,7 @@ Mini CPU
 https://github.com/co-op999/Diglo_final_project/blob/b74897fb4cac1f49b57e8011b673a097cabf411a/_Mini%20CPU_.pdf
 
 ### Presentation
-in progress
+in progres
 
 ---
 <h3>Contributors</h3>
