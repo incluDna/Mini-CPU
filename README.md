@@ -11,7 +11,7 @@ Diglo final project: instruction -> https://docs.google.com/document/d/1uvqsb468
 https://github.com/co-op999/Diglo_final_project/blob/b74897fb4cac1f49b57e8011b673a097cabf411a/_Mini%20CPU_.pdf
 
 ### Presentation
-in progres
+https://github.com/co-op999/Mini-CPU/blob/2116be0bc3a7dd1da22e8bfa1e6092a00f9b0e21/coop999.pdf
 
 ---
 <h3>Contributors</h3>
