@@ -1,4 +1,4 @@
-# Mini CPU
+# Mini CPU 🐿️
 Diglo final project: instruction -> https://docs.google.com/document/d/1uvqsb468sOjQjydFLADg61IQ6dEcqkizHf0_d00spWQ/edit?tab=t.0
 
 <h3>ASM Chart</h3>
